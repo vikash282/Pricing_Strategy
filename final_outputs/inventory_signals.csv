@@ -1,0 +1,51 @@
+SKU,Total_Inventory,Net_Sellable_Inventory,days-of-supply,Inventory_Status,Sell_Through_Level,Inventory_Pricing_Signal,Inventory_Risk_Flag
+MN-01,313,196,47,Overstocked,Low,Reduce Price,False
+MN-02,288,188,85,Overstocked,Medium,Hold,False
+MN-03,135,92,83,Overstocked,Low,Reduce Price,False
+MN-04,158,57,99,Excess,Medium,Hold,False
+MN-05,49,-234,145,Excess,Medium,Hold,False
+MN-06,1,-19,0,Understocked,Low,Hold,False
+MN-07,134,127,59,Overstocked,Low,Reduce Price,True
+MN-08,247,87,103,Excess,Low,Reduce Price,False
+MN-09,207,204,57,Overstocked,Low,Reduce Price,False
+MN-10,318,57,150,Excess,Low,Reduce Price,False
+MN-11,224,118,159,Excess,Medium,Hold,False
+MN-12,187,18,74,Overstocked,Medium,Hold,True
+MN-13,383,212,78,Overstocked,Medium,Hold,False
+MN-14,471,425,35,Healthy,High,Hold,True
+MN-15,1208,700,64,Overstocked,High,Hold,True
+MN-16,358,228,89,Overstocked,Low,Reduce Price,False
+MN-17,320,191,57,Overstocked,High,Hold,True
+MN-18,427,235,90,Overstocked,High,Hold,True
+MN-19,343,227,15,Understocked,High,Increase Price,True
+MN-20,968,644,66,Overstocked,Low,Reduce Price,True
+MN-21,2,-13,0,Understocked,High,Increase Price,False
+MN-22,356,214,51,Overstocked,High,Hold,False
+MN-23,525,265,73,Overstocked,Medium,Hold,True
+MN-24,394,262,106,Excess,Low,Reduce Price,False
+MN-25,1482,203,41,Healthy,High,Hold,True
+MN-26,1084,1024,80,Overstocked,Medium,Hold,True
+MN-27,796,730,82,Overstocked,High,Hold,False
+MN-28,1250,973,67,Overstocked,Medium,Hold,True
+MN-29,827,718,77,Overstocked,Medium,Hold,False
+MN-30,359,210,65,Overstocked,Medium,Hold,False
+MN-31,285,184,118,Excess,Medium,Hold,False
+MN-32,311,203,88,Overstocked,High,Hold,False
+MN-33,305,133,95,Excess,Medium,Hold,False
+MN-34,663,412,88,Overstocked,Low,Reduce Price,True
+MN-35,237,138,82,Overstocked,High,Hold,False
+MN-36,1289,693,79,Overstocked,High,Hold,True
+MN-37,163,66,116,Excess,Low,Reduce Price,False
+MN-38,934,805,76,Overstocked,High,Hold,False
+MN-39,238,-14,95,Excess,Medium,Hold,False
+MN-40,588,340,84,Overstocked,High,Hold,False
+MN-41,863,633,75,Overstocked,Medium,Hold,True
+MN-42,683,607,86,Overstocked,Medium,Hold,True
+MN-43,123,80,74,Overstocked,Low,Reduce Price,False
+MN-44,113,80,99,Excess,Low,Reduce Price,False
+MN-45,147,70,63,Overstocked,High,Hold,False
+MN-46,161,94,103,Excess,Low,Reduce Price,False
+MN-47,241,226,89,Overstocked,Low,Reduce Price,False
+MN-48,197,183,84,Overstocked,Low,Reduce Price,False
+MN-49,177,138,40,Healthy,High,Hold,False
+MN-50,143,3,49,Overstocked,High,Hold,False

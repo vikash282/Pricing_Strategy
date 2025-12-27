@@ -1,0 +1,51 @@
+SKU,Current_Price,Floor_Price,Target_Price,Competition_Level,Demand_Level,Inventory_Status,Sell_Through_Level,Ads_Pricing_Flag,High_Return_Risk,Final_Pricing_Recommendation,Recommended_Price
+MN-01,38.9,40.37,49.69,High,High,Overstocked,Low,Visibility Issue,False,Hold Price,38.9
+MN-02,33.9,33.25,40.92,High,Medium,Overstocked,Medium,Visibility Issue,False,Hold Price,33.9
+MN-03,34.9,37.54,46.2,High,Low,Overstocked,Low,Visibility Issue,False,Hold Price,34.9
+MN-04,29.9,32.42,39.91,High,Low,Excess,Medium,Visibility Issue,False,Hold Price,29.9
+MN-05,21.9,34.36,46.85,Medium,Medium,Excess,Medium,Neutral,False,Hold Price,21.9
+MN-06,14.95,19.16,26.13,Medium,Low,Understocked,Low,Price / Value Issue,False,Hold Price,14.95
+MN-07,34.9,37.34,45.95,High,Low,Overstocked,Low,Visibility Issue,False,Hold Price,34.9
+MN-08,29.9,34.81,47.47,High,Low,Excess,Low,Visibility Issue,False,Hold Price,29.9
+MN-09,14.9,19.89,27.13,Medium,Low,Overstocked,Low,Visibility Issue,False,Hold Price,14.9
+MN-10,19.9,21.75,26.77,High,Low,Excess,Low,Visibility Issue,False,Hold Price,19.9
+MN-11,16.9,19.08,23.48,High,Low,Excess,Medium,Price / Value Issue,False,Hold Price,16.9
+MN-12,19.9,22.34,27.49,High,Medium,Overstocked,Medium,Visibility Issue,False,Hold Price,19.9
+MN-13,22.9,22.25,27.38,High,High,Overstocked,Medium,Neutral,False,Hold Price,22.9
+MN-14,26.9,31.16,38.35,High,Very High,Healthy,High,Neutral,True,Hold Price,26.9
+MN-15,21.9,24.05,29.6,High,Very High,Overstocked,High,Visibility Issue,True,Hold Price,21.9
+MN-16,19.9,21.75,26.77,High,High,Overstocked,Low,Visibility Issue,True,Hold Price,19.9
+MN-17,29.9,34.98,43.05,High,High,Overstocked,High,Visibility Issue,False,Hold Price,29.9
+MN-18,26.9,34.66,42.66,High,High,Overstocked,High,Neutral,True,Hold Price,26.9
+MN-19,36.9,41.18,50.68,High,Very High,Understocked,High,Visibility Issue,True,Hold Price,36.9
+MN-20,11.9,13.77,16.95,High,Very High,Overstocked,Low,Neutral,True,Hold Price,11.9
+MN-21,21.9,24.25,29.85,High,High,Understocked,High,Neutral,True,Hold Price,21.9
+MN-22,20.9,23.85,29.35,High,High,Overstocked,High,Visibility Issue,True,Hold Price,20.9
+MN-23,9.95,13.0,16.0,High,High,Overstocked,Medium,Visibility Issue,True,Hold Price,9.95
+MN-24,19.9,19.52,24.03,High,Medium,Excess,Low,Neutral,True,Hold Price,19.9
+MN-25,34.9,39.01,48.02,High,Very High,Healthy,High,Neutral,True,Hold Price,34.9
+MN-26,29.9,33.56,41.31,High,Very High,Overstocked,Medium,Visibility Issue,True,Hold Price,29.9
+MN-27,28.9,30.22,37.2,High,Very High,Overstocked,High,Neutral,True,Hold Price,28.9
+MN-28,24.9,28.09,34.57,High,Very High,Overstocked,Medium,Neutral,True,Hold Price,24.9
+MN-29,21.9,22.14,27.25,High,Very High,Overstocked,Medium,Neutral,True,Hold Price,21.9
+MN-30,34.9,44.04,54.2,High,High,Overstocked,Medium,Visibility Issue,True,Hold Price,34.9
+MN-31,28.9,33.19,40.85,High,Medium,Excess,Medium,Price / Value Issue,True,Hold Price,28.9
+MN-32,26.9,29.89,36.78,High,High,Overstocked,High,Price / Value Issue,False,Hold Price,26.9
+MN-33,25.9,27.7,34.09,High,Medium,Excess,Medium,Visibility Issue,False,Hold Price,25.9
+MN-34,32.9,35.55,43.75,High,High,Overstocked,Low,Visibility Issue,True,Hold Price,32.9
+MN-35,31.9,35.61,43.83,High,Medium,Overstocked,High,Neutral,False,Hold Price,31.9
+MN-36,29.9,31.31,38.54,High,Very High,Overstocked,High,Visibility Issue,True,Hold Price,29.9
+MN-37,28.9,32.4,39.88,High,Medium,Excess,Low,Visibility Issue,False,Hold Price,28.9
+MN-38,29.9,32.86,40.45,High,Very High,Overstocked,High,Neutral,True,Hold Price,29.9
+MN-39,24.9,28.66,35.28,High,Low,Excess,Medium,Visibility Issue,False,Hold Price,24.9
+MN-40,23.9,24.59,30.26,High,High,Overstocked,High,Neutral,True,Hold Price,23.9
+MN-41,78.9,79.27,97.57,High,Very High,Overstocked,Medium,Price / Value Issue,True,Hold Price,78.9
+MN-42,73.9,63.49,78.14,High,Very High,Overstocked,Medium,Price / Value Issue,True,Hold Price,73.9
+MN-43,13.9,13.51,16.63,High,Low,Overstocked,Low,Price / Value Issue,False,Reduce Price,13.51
+MN-44,11.9,12.08,14.86,High,Low,Excess,Low,Visibility Issue,False,Hold Price,11.9
+MN-45,29.9,32.1,39.51,High,Medium,Overstocked,High,Price / Value Issue,False,Hold Price,29.9
+MN-46,26.9,26.24,32.29,High,Low,Excess,Low,Price / Value Issue,False,Reduce Price,26.24
+MN-47,76.9,69.18,85.14,High,Medium,Overstocked,Low,Visibility Issue,False,Hold Price,76.9
+MN-48,89.9,86.22,106.12,Medium,Low,Overstocked,Low,Visibility Issue,False,Hold Price,89.9
+MN-49,32.9,38.2,47.02,High,Medium,Healthy,High,Visibility Issue,False,Hold Price,32.9
+MN-50,29.9,34.5,42.46,High,Medium,Overstocked,High,Visibility Issue,False,Hold Price,29.9
