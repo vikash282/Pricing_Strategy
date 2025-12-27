@@ -13,6 +13,7 @@ The analysis converts multiple business datasets into structured pricing signals
 
 
 # folder structure
+`
 project/
 │
 ├── dataset/                  # raw files
@@ -30,3 +31,4 @@ project/
 │   ├── inventory_signals.csv
 │   ├── ads_signals.csv
 │   ├── returns_signals.csv
+`
